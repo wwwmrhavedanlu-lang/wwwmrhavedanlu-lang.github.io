@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wwwmrhavedanlu-lang.github.io/sitemap.xml
